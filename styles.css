@@ -1,0 +1,78 @@
+body{ 
+    background-color:rgb(135, 163, 192);
+    border: 5px solid rosybrown;
+    border-style:double;
+    border-width: 10px;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#header{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#profile-menu{
+    text-align:center;
+    
+    
+}
+
+
+.logo-item:hover{
+    box-shadow: 0px 0px 50px #110101;
+    cursor: pointer;
+    
+    
+}
+
+.info:hover{
+    
+    cursor: pointer;
+}
+
+
+
+
+#resume-pic{
+    margin-right:200px;
+    width:150px;
+    
+}
+
+#linkedin-pic{
+    width:150px;
+}
+
+
+
+#text{
+    text-align:center
+}
+
+#resume{
+    margin-left:495px;
+
+}
+
+#linkedin{
+    margin-left:240px;
+}
+
+
+
+#information{
+    background-color: rgb(239, 225, 243);
+    font-size: larger;
+    font-family: cursive;
+    margin-bottom: 200px;
+    box-shadow: 0px 0px 15px #110101;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-left:200px;
+    text-align:center
+    
+    
+
+    
+}
